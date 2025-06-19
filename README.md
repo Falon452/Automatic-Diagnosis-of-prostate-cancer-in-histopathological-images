@@ -190,5 +190,3 @@ If you use this code or reference the findings from the thesis in your research,
   address = {Kraków, Poland},
 }
 ```
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
